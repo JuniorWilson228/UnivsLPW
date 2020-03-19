@@ -1,43 +1,36 @@
 body{
-    font-family: Arial, Helvetica,sans-serif;
-}
+    font-family: Arial,helvetica,sans-serif;}
 
 h1{
-    background-color: yellow;
-    border-style: solid;
+    background-color: blue;
+    text-align: center;
+    margin: 300px 10px 10px 300px;
+    padding: 15px;
+    width: 800px;
+    height: 15px;
+    color:white;
+    
+}
+h2{
+    text-align: justify;
+   
+}
+
+h3{
+    background-color: blue;
+    border-style:solid;
     margin: 50px 30px 60px 70px;
-    padding: 20px;
-    width: 120px;
-    height: 80px;
+    color:white;
+    padding: 15px;
+height: 15px;
 }
-  ul li{
-      font-size: 15px;
-      text-transform: uppercase;
-      text-align: left;
-    }
-
-    ol li{
-color:red
-
-    }
-
-    a:link{
-        color:black
-    }
-
-    a:hover{
-        color:red;
-        font-size:20px;
-    }
-
-    a:active{
-        color:blue;
-        font-size:25px;
-    }
-
-    a:visited{
-
-        color:gray;
-        font-size:12px;
-    }
+h4{background-color: black;
+    color: white;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 15px;
+    width: 800px;
+    height: 15px; 
 }
+}
+
